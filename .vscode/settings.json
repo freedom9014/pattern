@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "WEB-INF/classes"
+    ],
+    "java.project.referencedLibraries": [
+        "/Users/yk/jar/ojdbc14.jar",
+        "/Users/yk/jar/jakarta.servlet.jsp.jstl-3.0.1.jar",
+        "/Users/yk/jar/jakarta.servlet.jsp.jstl-api-3.0.0.jar",
+        "/Users/yk/tomcat10/lib/jsp-api.jar",
+        "/Users/yk/tomcat10/lib/servlet-api.jar"
+    ]
+}
